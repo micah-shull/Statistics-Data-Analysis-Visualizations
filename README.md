@@ -49,8 +49,8 @@ Welcome to the **Statistics and Hypothesis Testing** repository, showcasing my e
 
 #### **Contact**  
 Feel free to reach out or connect for questions or collaboration opportunities:  
-- **Email**: [Your Email]  
-- **LinkedIn**: [Your LinkedIn Profile]  
+- **Email**: [micahshull.datascientist@gmail.com]  
+- **LinkedIn**: [[(https://www.linkedin.com/in/micahshull/)]  
 
 ---
 
