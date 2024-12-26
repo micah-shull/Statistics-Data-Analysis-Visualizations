@@ -1,4 +1,4 @@
-# **Statistics and Data Visualization for Data Analysis**
+# **Statistics for Data Analysis and Data Visualization**
 
 ## **Repository Overview**
 This repository is a comprehensive resource for statistical analysis and data visualization, demonstrating how data scientists use these tools to derive insights, validate hypotheses, and communicate findings effectively. Through practical examples and real-world datasets, this repository integrates summary statistics, hypothesis testing, and visualizations to build a robust foundation for data-driven decision-making.
